@@ -1,7 +1,5 @@
 // app/(blog)/layout.tsx
 import { GeistSans } from "geist/font/sans";
-import { GeistMono } from "geist/font/mono";
-
 import { SanityLive } from "@/sanity/lib/live";
 import { DisableDraftMode } from "@/components/DisableDraftMode";
 import { VisualEditing } from "next-sanity";

@@ -13,6 +13,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <title>Blog | IVD CMS</title>
+      </head>
       <body className={` antialiased`}>
         {children}
       </body>
